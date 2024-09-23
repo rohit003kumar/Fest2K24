@@ -7,7 +7,7 @@ import frame from '../../assets/frame.png'
 // import photo from '../../assets/pngegg.png'
 import { motion } from 'framer-motion'
 import { fadeIn } from '../../variants'
-import Animation from '../animation/animation'
+import Animation from '../Animation/Animation'
 import { Link } from 'react-router-dom'
 import student from '../../assets/s2.png'
 
