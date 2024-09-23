@@ -82,7 +82,7 @@
 .frame-icon .first {
     height: 200px;
     width: 200px;
-    background-color: rgb(62, 74, 117,0.7);
+    background: linear-gradient(rgb(28, 28, 55),rgb(27, 67, 109));
     /* background-image: url('../../assets/OIP.jpeg');
     background-size: cover;
     background-position-x: center;*/
