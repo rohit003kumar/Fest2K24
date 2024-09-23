@@ -139,6 +139,7 @@ body::-webkit-scrollbar{
     color:rgb(242, 235, 26);
     /* animation:2s linear 0 infinite alternate-reverse fest; */
     animation: 2s linear 0s infinite forwards fest;
+    cursor: pointer;
  
 }
 .fest img{
