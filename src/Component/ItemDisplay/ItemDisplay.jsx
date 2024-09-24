@@ -30,8 +30,8 @@ const ItemDisplay = (props) => {
 
         <motion.div 
         variants={fadeIn('left', 0.2)}
-        initial={{ opacity: 0 ,x: 50}}
-        whileInView={{ opacity: 1, x:0}}
+        initial={{ opacity: 0 ,y: 70}}
+        whileInView={{ opacity: 1, y:0}}
         viewport={{ once: false, amount: 0.7 }}
         className='display-text'>
           <div className="show-button">
